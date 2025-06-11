@@ -9,7 +9,7 @@ Designed for festivals, raves, and fun.
 
 - **Microcontroller:** ESP32-C3 (USB-C, WiFi)
 - **PCBs:** Custom logic board and WS2812B carrier board developed with KiCAD 8
-- **LEDs:** 2x WS2812B 24-pixel rings (96 total)
+- **LEDs:** 2x WS2812B 48-pixel rings (96 total)
 - **Power:** USB-C (5V) with onboard voltage regulation
 - **Firmware:** Custom ESP32 firmware written in C++ in PlatformIO (Arduino framework)
 - **App:** Custom ReactNative app for WiFi control
