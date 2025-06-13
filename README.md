@@ -18,5 +18,5 @@ Designed for festivals, raves, and fun.
 ---
 
 > Designed by Lachlan Cooke in late 2023.
-> Check out [lachlancooke.com/projects](https://www.lachlancooke.com/projects) für mehr details!
+> Check out [lachlancooke.com/projects](https://www.lachlancooke.com/projects) für mehr details.
 
