@@ -15,3 +15,8 @@ Designed for festivals, raves, and fun.
 - **App:** Custom ReactNative app for WiFi control
 - **Animations:** Multiple visual modes, sinusoidal brightness effects, pulses, swirls, etc.
 
+---
+
+> Designed by Lachlan Cooke in late 2023.
+> Check out [lachlancooke.com/projects](https://www.lachlancooke.com/projects) für mehr details!
+
